@@ -172,7 +172,7 @@ const message = {
             codeInput: '請輸入 MFA 驗證器的 6 位驗證碼',
             mfaTitle: 'MFA 認證',
             mfaCode: 'MFA 驗證碼',
-            title: 'Linux 服務器運維管理面板',
+            title: 'Linux 伺服器運維管理面板',
             licenseHelper:
                 '同意 &laquo; <a href="https://www.fit2cloud.com/legal/licenses.html" target="_blank"> 飛致雲社區軟件許可協議</a> &raquo;',
             errorAgree: '請點擊同意社區軟件許可協議',
